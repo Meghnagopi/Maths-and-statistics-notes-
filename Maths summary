@@ -1,0 +1,46 @@
+# 📘 Maths for Data Analytics
+
+This repository contains my handwritten and structured notes covering important mathematics concepts used in **Data Analytics** and **Machine Learning**. The content is chapter-wise and includes key formulas, properties, and problem-solving methods.
+
+---
+
+## 📂 Chapters Covered
+
+### 📐 Chapter 1: Algebraic Equations
+- General properties of equations
+- Interesting properties and identities
+
+### 🔷 Chapter 2: Determinants
+- Definition, Minors and Cofactors
+- Properties of Determinants
+
+### 🔳 Chapter 3: Matrices
+- Definition and Types of Matrices
+- Equality, Addition, Subtraction, and Multiplication
+- Transpose, Adjoint, and Inverse of a Matrix
+
+### 🔄 Chapter 4: Solutions of Linear Equations
+- Cramer’s Rule
+- Matrix Method and Gauss-Jordan Method
+- Consistency of Linear Equations
+- Homogeneous Systems and their Consistency
+- Linear and Orthogonal Transformation
+- Characteristic Equation and Eigenvalues
+- Eigenvectors and Properties of Eigenvalues
+
+### 🎲 Chapter 5: Probability
+- Addition and Multiplication Rules
+- Bayes Theorem
+
+### 📊 Chapter 6: Statistics
+- Mean, Median, Mode
+- Geometric Mean and Harmonic Mean
+
+---
+
+## 🧠 Purpose
+
+This repository serves as a quick revision and reference for key mathematical topics essential in:
+- Data Analytics interviews
+- Data Science & ML foundations
+- Competitive exams with technical sections
